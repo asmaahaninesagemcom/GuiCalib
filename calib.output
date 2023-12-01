@@ -1,0 +1,4 @@
+  File "C:\Users\G604088\OneDrive - Sagemcom Broadband SAS\Documents\CalibGui\GuiCalib\calib.py", line 29
+    top = import (root)
+          ^
+SyntaxError: invalid syntax
